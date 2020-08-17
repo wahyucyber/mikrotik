@@ -1,0 +1,283 @@
+ERROR - 2020-08-17 05:21:42 --> Severity: Warning --> require_once(/var/www/html/mikrotik/app/app/third_party/blade/BladeOne.php): failed to open stream: No such file or directory /var/www/html/mikrotik/app/core/MY_Controller.php 5
+ERROR - 2020-08-17 05:21:42 --> Severity: Compile Error --> require_once(): Failed opening required '/var/www/html/mikrotik/app/app/third_party/blade/BladeOne.php' (include_path='.:/usr/share/php') /var/www/html/mikrotik/app/core/MY_Controller.php 5
+ERROR - 2020-08-17 05:21:56 --> Severity: Warning --> require_once(/var/www/html/mikrotik/app/app/third_party/blade/BladeOne.php): failed to open stream: No such file or directory /var/www/html/mikrotik/app/core/MY_Controller.php 5
+ERROR - 2020-08-17 05:21:56 --> Severity: Compile Error --> require_once(): Failed opening required '/var/www/html/mikrotik/app/app/third_party/blade/BladeOne.php' (include_path='.:/usr/share/php') /var/www/html/mikrotik/app/core/MY_Controller.php 5
+ERROR - 2020-08-17 05:22:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:22:19 --> Unable to connect to the database
+ERROR - 2020-08-17 05:22:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:22:48 --> Unable to connect to the database
+ERROR - 2020-08-17 05:23:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:23:11 --> Unable to connect to the database
+ERROR - 2020-08-17 05:23:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:23:25 --> Unable to connect to the database
+ERROR - 2020-08-17 05:23:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:23:29 --> Unable to connect to the database
+ERROR - 2020-08-17 05:23:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:23:42 --> Unable to connect to the database
+ERROR - 2020-08-17 05:25:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:25:45 --> Unable to connect to the database
+ERROR - 2020-08-17 05:26:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:26:15 --> Unable to connect to the database
+ERROR - 2020-08-17 05:26:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:26:28 --> Unable to connect to the database
+ERROR - 2020-08-17 05:26:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:26:35 --> Unable to connect to the database
+ERROR - 2020-08-17 05:38:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:38:57 --> Unable to connect to the database
+ERROR - 2020-08-17 05:40:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:40:04 --> Unable to connect to the database
+ERROR - 2020-08-17 05:40:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:40:38 --> Unable to connect to the database
+ERROR - 2020-08-17 05:40:49 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:40:49 --> Unable to connect to the database
+ERROR - 2020-08-17 05:41:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:41:05 --> Unable to connect to the database
+ERROR - 2020-08-17 05:41:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:41:10 --> Unable to connect to the database
+ERROR - 2020-08-17 05:41:16 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:41:16 --> Unable to connect to the database
+ERROR - 2020-08-17 05:45:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:45:12 --> Unable to connect to the database
+ERROR - 2020-08-17 05:45:51 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:45:51 --> Unable to connect to the database
+ERROR - 2020-08-17 05:45:56 --> 404 Page Not Found: Test/index
+ERROR - 2020-08-17 05:46:03 --> 404 Page Not Found: Test/index
+ERROR - 2020-08-17 05:46:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:46:11 --> Unable to connect to the database
+ERROR - 2020-08-17 05:46:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:46:12 --> Unable to connect to the database
+ERROR - 2020-08-17 05:46:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:46:17 --> Unable to connect to the database
+ERROR - 2020-08-17 05:46:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:46:45 --> Unable to connect to the database
+ERROR - 2020-08-17 05:46:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:46:57 --> Unable to connect to the database
+ERROR - 2020-08-17 05:47:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:47:00 --> Unable to connect to the database
+ERROR - 2020-08-17 05:47:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:47:28 --> Unable to connect to the database
+ERROR - 2020-08-17 05:47:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:47:50 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:52:00 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:52:13 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:52:15 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:52:48 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:48 --> Severity: error --> Exception: Call to undefined function env() /var/www/html/mikrotik/app/cache/auth.bladec 7
+ERROR - 2020-08-17 05:52:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:52:50 --> Unable to connect to the database
+ERROR - 2020-08-17 05:52:50 --> Severity: error --> Exception: Call to undefined function env() /var/www/html/mikrotik/app/cache/auth.bladec 7
+ERROR - 2020-08-17 05:53:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:53:32 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:26 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:26 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:28 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:40 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:40 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:41 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:41 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:54 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:55 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:55 --> Unable to connect to the database
+ERROR - 2020-08-17 05:54:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:54:57 --> Unable to connect to the database
+ERROR - 2020-08-17 05:55:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:55:11 --> Unable to connect to the database
+ERROR - 2020-08-17 05:55:13 --> 404 Page Not Found: Index/index
+ERROR - 2020-08-17 05:55:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:55:14 --> Unable to connect to the database
+ERROR - 2020-08-17 05:55:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:55:15 --> Unable to connect to the database
+ERROR - 2020-08-17 05:56:25 --> 404 Page Not Found: Index/index
+ERROR - 2020-08-17 05:56:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:56:27 --> Unable to connect to the database
+ERROR - 2020-08-17 05:56:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:56:30 --> Unable to connect to the database
+ERROR - 2020-08-17 05:57:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:57:17 --> Unable to connect to the database
+ERROR - 2020-08-17 05:57:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:57:54 --> Unable to connect to the database
+ERROR - 2020-08-17 05:57:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:57:56 --> Unable to connect to the database
+ERROR - 2020-08-17 05:57:58 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:57:58 --> Unable to connect to the database
+ERROR - 2020-08-17 05:58:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:58:19 --> Unable to connect to the database
+ERROR - 2020-08-17 05:58:41 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:58:41 --> Unable to connect to the database
+ERROR - 2020-08-17 05:58:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 05:58:54 --> Unable to connect to the database
+ERROR - 2020-08-17 06:01:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:01:57 --> Unable to connect to the database
+ERROR - 2020-08-17 06:02:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:02:14 --> Unable to connect to the database
+ERROR - 2020-08-17 06:02:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:02:25 --> Unable to connect to the database
+ERROR - 2020-08-17 06:02:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:02:29 --> Unable to connect to the database
+ERROR - 2020-08-17 06:04:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:04:19 --> Unable to connect to the database
+ERROR - 2020-08-17 06:04:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:04:36 --> Unable to connect to the database
+ERROR - 2020-08-17 06:04:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:04:42 --> Unable to connect to the database
+ERROR - 2020-08-17 06:04:53 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:04:53 --> Unable to connect to the database
+ERROR - 2020-08-17 06:05:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:05:06 --> Unable to connect to the database
+ERROR - 2020-08-17 06:05:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:05:30 --> Unable to connect to the database
+ERROR - 2020-08-17 06:05:41 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:05:41 --> Unable to connect to the database
+ERROR - 2020-08-17 06:05:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:05:48 --> Unable to connect to the database
+ERROR - 2020-08-17 06:05:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:05:54 --> Unable to connect to the database
+ERROR - 2020-08-17 06:06:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:06:30 --> Unable to connect to the database
+ERROR - 2020-08-17 06:28:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:28:00 --> Unable to connect to the database
+ERROR - 2020-08-17 06:28:03 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:28:03 --> Unable to connect to the database
+ERROR - 2020-08-17 06:28:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:28:09 --> Unable to connect to the database
+ERROR - 2020-08-17 06:29:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:29:31 --> Unable to connect to the database
+ERROR - 2020-08-17 06:29:31 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:29:31 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:29:59 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:29:59 --> Unable to connect to the database
+ERROR - 2020-08-17 06:29:59 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:29:59 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:30:44 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:30:44 --> Unable to connect to the database
+ERROR - 2020-08-17 06:30:44 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:30:44 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:31:26 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:31:26 --> Unable to connect to the database
+ERROR - 2020-08-17 06:31:26 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:31:26 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:31:49 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:31:49 --> Unable to connect to the database
+ERROR - 2020-08-17 06:31:49 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:31:49 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:32:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:32:06 --> Unable to connect to the database
+ERROR - 2020-08-17 06:33:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:33:05 --> Unable to connect to the database
+ERROR - 2020-08-17 06:35:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:35:13 --> Unable to connect to the database
+ERROR - 2020-08-17 06:35:13 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:35:13 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:35:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:35:32 --> Unable to connect to the database
+ERROR - 2020-08-17 06:35:32 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:35:32 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:35:49 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:35:49 --> Unable to connect to the database
+ERROR - 2020-08-17 06:36:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:36:01 --> Unable to connect to the database
+ERROR - 2020-08-17 06:36:01 --> Could not find the language line "form_validation_max_length"
+ERROR - 2020-08-17 06:36:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:36:21 --> Unable to connect to the database
+ERROR - 2020-08-17 06:36:21 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:37:33 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:37:33 --> Unable to connect to the database
+ERROR - 2020-08-17 06:37:33 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:37:37 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:37:37 --> Unable to connect to the database
+ERROR - 2020-08-17 06:37:37 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:37:37 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:37:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 06:37:47 --> Unable to connect to the database
+ERROR - 2020-08-17 06:37:47 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 06:37:47 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:49 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:49 --> Unable to connect to the database
+ERROR - 2020-08-17 07:42:49 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:49 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:50 --> Unable to connect to the database
+ERROR - 2020-08-17 07:42:50 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:50 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:51 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:51 --> Unable to connect to the database
+ERROR - 2020-08-17 07:42:51 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:51 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:52 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:52 --> Unable to connect to the database
+ERROR - 2020-08-17 07:42:52 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:52 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:52 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:52 --> Unable to connect to the database
+ERROR - 2020-08-17 07:42:52 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:52 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:42:55 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:42:55 --> Unable to connect to the database
+ERROR - 2020-08-17 07:46:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:46:50 --> Unable to connect to the database
+ERROR - 2020-08-17 07:46:50 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:46:50 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:46:52 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:46:52 --> Unable to connect to the database
+ERROR - 2020-08-17 07:46:52 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:46:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:46:54 --> Unable to connect to the database
+ERROR - 2020-08-17 07:46:54 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:46:54 --> Unable to connect to the database
+ERROR - 2020-08-17 07:46:54 --> Query error: Access denied for user 'root'@'localhost' (using password: NO) - Invalid query: 
+         SELECT
+            id,
+            password
+         FROM
+            mst_user
+         WHERE
+            username = 'root'
+      
+ERROR - 2020-08-17 07:46:54 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/mikrotik/app/models/api/Auth_model.php 42
+ERROR - 2020-08-17 07:47:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:47:32 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:07 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:07 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:07 --> Severity: error --> Exception: Too few arguments to function env(), 0 passed in /var/www/html/mikrotik/app/models/api/Auth_model.php on line 68 and exactly 1 expected /var/www/html/mikrotik/app/helpers/loader_helper.php 6
+ERROR - 2020-08-17 07:48:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:17 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:23 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:23 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:27 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:31 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:39 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:39 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:39 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:39 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:39 --> Query error: Access denied for user 'root'@'localhost' (using password: NO) - Invalid query: 
+         SELECT
+            id,
+            password
+         FROM
+            mst_user
+         WHERE
+            username = 'root'
+      
+ERROR - 2020-08-17 07:48:39 --> Severity: error --> Exception: Call to a member function num_rows() on bool /var/www/html/mikrotik/app/models/api/Auth_model.php 42
+ERROR - 2020-08-17 07:48:43 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /var/www/html/mikrotik/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-17 07:48:43 --> Unable to connect to the database
+ERROR - 2020-08-17 07:48:43 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:48:43 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:49:21 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:49:21 --> Could not find the language line "form_validation_required"
+ERROR - 2020-08-17 07:49:23 --> Severity: error --> Exception: Call to undefined function now() /var/www/html/mikrotik/app/models/api/Auth_model.php 54
+ERROR - 2020-08-17 08:04:24 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/html/mikrotik/app/helpers/jwt_helper.php 34
+ERROR - 2020-08-17 08:04:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /var/www/html/mikrotik/app/helpers/jwt_helper.php 35
+ERROR - 2020-08-17 08:10:03 --> Severity: error --> Exception: Call to undefined function now() /var/www/html/mikrotik/app/helpers/authorization_helper.php 9
+ERROR - 2020-08-17 08:12:39 --> Severity: error --> Exception: Call to undefined function now() /var/www/html/mikrotik/app/helpers/authorization_helper.php 9
+ERROR - 2020-08-17 08:15:24 --> Severity: error --> Exception: Call to undefined function env() /var/www/html/mikrotik/app/config/jwt.php 8
+ERROR - 2020-08-17 08:16:02 --> Severity: Warning --> require_once(/var/www/html/mikrotik/app/app/helpers/loader_helper.php): failed to open stream: No such file or directory /var/www/html/mikrotik/app/config/jwt.php 3
+ERROR - 2020-08-17 08:16:02 --> Severity: Compile Error --> require_once(): Failed opening required '/var/www/html/mikrotik/app/app/helpers/loader_helper.php' (include_path='.:/usr/share/php') /var/www/html/mikrotik/app/config/jwt.php 3

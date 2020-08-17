@@ -41,3 +41,12 @@
 
 <!-- App.js -->
 <script src="{{ base_url("assets") }}/build/js/app.js" type="text/javascript"></script>
+
+@php
+   $CI = &get_instance();
+   $token = $CI->session->token;            
+@endphp
+
+<script type="text/javascript">
+   const token = "{{ $token }}";
+</script>

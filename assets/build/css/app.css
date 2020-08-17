@@ -1,0 +1,55 @@
+div.navbar-nav div.action--logout {
+   padding: 10px;
+}
+
+div.toggle {
+   padding: 10px;
+}
+
+.nav.side-menu>li.current-page, 
+.nav.side-menu>li.active,
+.nav.side-menu>li.active-sm {
+   border-left: 5px solid #1ABB9C;
+   border-right: none !important;
+}
+
+.btn {
+   border-radius: 0px !important;
+}
+
+.form-control {
+   height: 35px;
+   font-size: 13px;  
+}
+
+.badge {
+   padding: 7px;
+   font-size: 11px;
+}
+
+a.action--data {
+   font-size: 13px;
+}
+
+a.action--data:hover {
+   text-decoration: dotted !important;
+}
+
+div.pagination {
+   width: auto;
+}
+
+div.pagination div {
+   padding: 7px 13px;
+   cursor: pointer;
+   /* border: 1px solid #ddd; */
+}
+
+div.pagination div span.page {
+   border: 1px solid #ddd;
+   padding: 7px 15px;
+}
+
+span.required {
+   color: red;
+}

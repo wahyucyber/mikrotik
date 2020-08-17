@@ -13,7 +13,11 @@ class Dashboard extends MY_Controller {
    
    public function index_get()
    {
-      $this->view('dashboard.index');
+      $data = array(
+         'title' => "Dashboard",
+      );
+
+      $this->view('dashboard.index', $data);
    }
 
 }

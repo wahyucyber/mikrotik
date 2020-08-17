@@ -9,8 +9,15 @@ class App {
          type: params['method'],
          url: "api/"+params['url'],
          data: params['data'],
+         headers: {
+            Authorization: token
+         },
          success: function (response) {
-            callBack(response);
+            if(response.status == false && response.error == "unauthorization.") {
+               window.location = "auth/logout.html";
+            }else{
+               callBack(response);
+            }
          }
       });
    }

@@ -28,6 +28,14 @@ class MY_Controller extends RestController {
                'error' => "unauthorization."
             ));
          }
+      }else if(empty($uri) || $uri == "auth") {
+         if(isset($this->session->token)) {
+            header('location: '.base_url('dashboard.html'));
+         }
+      }else if($uri != "api" || !empty($uri)) {
+         if(!isset($this->session->token)) {
+            header('location: '.base_url(''));
+         }
       }
    }
 

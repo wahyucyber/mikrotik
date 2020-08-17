@@ -64,6 +64,8 @@
             type: "danger",
             text: e.error
           });
+        }else{
+          window.location="{{ base_url("auth/verify/") }}"+e.data.token;
         }
       })
     }

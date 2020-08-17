@@ -16,6 +16,22 @@ class Auth extends MY_Controller {
       $this->view("auth");
    }
    
+   public function verify_get($token)
+   {
+      
+      $this->session->set_userdata(array(
+         'token' => $token
+      ));
+      
+      header('location: '.base_url("dashboard.html"));
+   }
+
+   public function logout_get()
+   {
+      $this->session->sess_destroy();
+
+      header('location: '.base_url());
+   }
 
 }
 

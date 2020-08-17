@@ -62,6 +62,12 @@ class Auth_model extends MY_Model {
             )
          );
          goto output;
+      }else {
+         $output = array(
+            'status' => false,
+            'error' => "Password salah."
+         );
+         goto output;
       }
 
       output:
